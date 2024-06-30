@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700856421 source:c:\users\surbh\onedrive\desktop\check\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	<unordered_map>
+	<queue>
+
